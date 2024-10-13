@@ -1,0 +1,22 @@
+{
+  "schedule": [
+    {
+      "date": "02-june-2022",
+      "teamOne": "CANADA",
+      "teamTwo": "USA",
+      "flagOne": "can.png",
+      "flagTwo": "can..png",
+      "group": "A",
+      "venue": "Simonds Stadium, Geelong"
+    },
+    {
+      "date": "02-june-2022",
+      "teamOne": "srilanka",
+      "teamTwo": "west indies",
+      "flagOne": "uae.gif",
+      "flagTwo": "nl.png",
+      "group": "A",
+      "venue": "Simonds Stadium, Geelong"
+    }
+    ]
+} 
